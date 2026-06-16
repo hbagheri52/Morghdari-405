@@ -1,0 +1,21 @@
+{
+  "name": "morghdari-api",
+  "version": "1.0.0",
+  "description": "API مدیریت مرغداری - ثبت تلفات، وزن، جیره",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["poultry", "farm", "morghdari"],
+  "author": "hbagheri52",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}

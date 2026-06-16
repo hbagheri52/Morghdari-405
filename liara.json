@@ -1,0 +1,8 @@
+{
+  "name": "morghdari-api",
+  "description": "API مدیریت مرغداری",
+  "platform": "node",
+  "node": {
+    "version": "18"
+  }
+}
